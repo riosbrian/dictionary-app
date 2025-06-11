@@ -1,5 +1,11 @@
+import Header from './features/core/components/Header/Header';
+
 function App() {
-  return <>{/* JSX content here */}</>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
